@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MAPD711_A4</string>
+
+    <!--  Login Screen  -->
+    <string name="user_label">User</string>
+    <string name="password_label">Password</string>
+    <string name="login_label">Login</string>
+    <string name="register_label">Register</string>
+
+    <!--  Registration Screen  -->
+<!--    <string name="login_label">Login</string>-->
 </resources>
