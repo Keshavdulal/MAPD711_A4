@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MAPD711_A4">
         <activity
+            android:name=".CruiseModel"
+            android:exported="false" />
+        <activity
+            android:name=".CruiseRepository"
+            android:exported="false" />
+        <activity
+            android:name=".CruiseDatabase"
+            android:exported="false" />
+        <activity
+            android:name=".CruiseDao"
+            android:exported="false" />
+        <activity
+            android:name=".CruiseViewModel"
+            android:exported="false" />
+        <activity
             android:name=".Dashboard"
             android:exported="true" />
         <activity
