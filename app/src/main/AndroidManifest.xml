@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MAPD711_A4">
         <activity
+            android:name=".Messages"
+            android:exported="false" />
+        <activity
+            android:name=".CruiseDetail"
+            android:exported="false" />
+        <activity
             android:name=".BookingForm"
             android:exported="false" />
         <activity
