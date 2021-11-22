@@ -2,20 +2,17 @@
     <string name="app_name">MAPD711_A4</string>
 
     <!--  Login Screen  -->
-    <string name="user_label">User</string>
+    <string name="username_label">UserName</string>
     <string name="password_label">Password</string>
     <string name="login_label">Login</string>
     <string name="register_label">Register</string>
-    <string name="title_activity_login_test">LoginActivityTest</string>
-    <string name="prompt_email">Email</string>
-    <string name="prompt_password">Password</string>
-    <string name="action_sign_in">Sign in or register</string>
-    <string name="action_sign_in_short">Sign in</string>
-    <string name="welcome">"Welcome !"</string>
-    <string name="invalid_username">Not a valid username</string>
-    <string name="invalid_password">Password must be >5 characters</string>
-    <string name="login_failed">"Login failed"</string>
 
     <!--  Registration Screen  -->
-    <!--    <string name="login_label">Login</string>-->
+    <string name="first_name_label">First Name</string>
+    <string name="last_name_label">Last Name</string>
+    <string name="address_label">Address</string>
+    <string name="city_label">City</string>
+    <string name="postal_code_label">Postal Code</string>
+    <string name="telephone_label">Telephone</string>
+    <string name="email_label">Email</string>
 </resources>

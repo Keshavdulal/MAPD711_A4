@@ -9,18 +9,9 @@
     android:orientation="vertical"
     >
 
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/user_label"
-        tools:layout_conversion_absoluteHeight="19dp"
-        tools:layout_editor_absoluteY="0dp"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_conversion_absoluteWidth="411dp" />
-
     <EditText
         android:id="@+id/editTextTextPersonName"
+        android:hint="@string/username_label"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:autofillHints=""
@@ -32,27 +23,19 @@
         tools:layout_editor_absoluteX="0dp"
         tools:layout_conversion_absoluteWidth="210dp" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/password_label"
-        tools:layout_conversion_absoluteHeight="19dp"
-        tools:layout_editor_absoluteY="366dp"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_conversion_absoluteWidth="411dp" />
-
     <EditText
         android:id="@+id/editTextTextPassword"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:autofillHints=""
         android:ems="10"
+        android:hint="@string/password_label"
         android:inputType="textPassword"
         tools:layout_conversion_absoluteHeight="346dp"
         tools:layout_editor_absoluteY="385dp"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_conversion_absoluteWidth="210dp" />
-..
+
     <Button
         android:id="@+id/buttonLogin"
         android:layout_width="220dp"
