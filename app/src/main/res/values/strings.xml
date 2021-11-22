@@ -8,6 +8,7 @@
     <string name="register_label">Register</string>
 
     <!--  Registration Screen  -->
+
     <string name="first_name_label">First Name</string>
     <string name="last_name_label">Last Name</string>
     <string name="address_label">Address</string>
@@ -15,4 +16,35 @@
     <string name="postal_code_label">Postal Code</string>
     <string name="telephone_label">Telephone</string>
     <string name="email_label">Email</string>
+
+    <!--    <string name="login_label">Login</string>-->
+
+
+
+    <string-array name="kids">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="adults">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="seniors">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
 </resources>

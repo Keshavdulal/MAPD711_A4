@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_booking_form.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_cruise_database.xml" value="0.13072916666666667" />
         <entry key="app/src/main/res/layout/activity_cruise_repository.xml" value="0.13072916666666667" />
         <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.2760416666666667" />
